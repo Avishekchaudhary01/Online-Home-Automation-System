@@ -1,14 +1,22 @@
-# Online-Home-Automation-System
-# Online Home Automation System (C Project)
+Online Home Automation System (Java Project)
+📌 Overview
 
-##  Overview
-This project simulates an **Online Home Automation System** using the C programming language.  
-It allows users to control home devices such as **lights, fans, sensors, and security systems** through a simple console-based menu.
+This project simulates an Online Home Automation System using the Java programming language.
+It allows users to control various home devices such as lights, fans, security systems, and sensors with a console-based menu interface.
+The system is built using Object-Oriented Programming (OOP) concepts, ensuring clean structure, modularity, and easy scalability.
 
-##  Features
-- Turn ON/OFF lights
-- Control fan speed
-- Enable/disable security system
-- Monitor temperature sensor
-- Automatic device logging
-- Modular code with `.c` and `.h` files
+🚀 Features
+
+Turn ON/OFF lights
+
+Set fan speed (0–5)
+
+Enable/disable the security system
+
+Read temperature sensor values
+
+Automatic logging of all device actions
+
+Organized folder structure with packages (models, controllers, ui)
+
+Clean and modular Java code
