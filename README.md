@@ -1,6 +1,14 @@
 # Online-Home-Automation-System
-Java JSP + Servlet project for home automation
+# Online Home Automation System (C Project)
 
-The Online Home Automation System is a web-based application that allows users to monitor and control home appliances remotely.
-The system provides a simple online interface for turning devices ON/OFF, managing appliances, and viewing real-time device status.
-This project is built using Java JSP, Servlets, JDBC, and MySQL, and follows the MVC architecture for clean code and easy maintenance.
+##  Overview
+This project simulates an **Online Home Automation System** using the C programming language.  
+It allows users to control home devices such as **lights, fans, sensors, and security systems** through a simple console-based menu.
+
+##  Features
+- Turn ON/OFF lights
+- Control fan speed
+- Enable/disable security system
+- Monitor temperature sensor
+- Automatic device logging
+- Modular code with `.c` and `.h` files
